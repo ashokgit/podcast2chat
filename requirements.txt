@@ -1,0 +1,8 @@
+pytube==12.1.2
+pydub==0.25.1
+ffmpeg-python==0.2.0
+langchain==0.0.91
+gpt-index==0.4.8
+gradio==3.19.1
+google-api-python-client==2.79.0
+whisper-openai==1.0.0
