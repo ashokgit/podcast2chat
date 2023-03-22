@@ -2,11 +2,11 @@ from googleapiclient.discovery import build
 import json
 
 # Set up the API client
-api_key = 'AIzaSyDA34ktENe_yO0nbXKq-ixrUYRNPOEeyv4'
+api_key = ''
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 # Make a request to the API
-channel_id = 'UC2D2CMWXMOVWx7giW1n3LIg'
+channel_id = ''
 folder = './data/AndrewHuberMan/'
 
 # Request the channel's about information
